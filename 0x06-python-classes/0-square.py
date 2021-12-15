@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""Documentation for a square class"""
+"""
+Module 0-square
+Defines class Square
+"""
 
 
-class Square():
-    """Square class of a quadrilateral with four equal sides
-       Attributes:
-           None
-    """
+class Square:
+    """Empty class"""
     pass
